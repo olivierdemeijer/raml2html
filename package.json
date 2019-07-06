@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "commander": "2.9.x",
-    "marked": "0.3.x",
+    "marked": "0.4.0",
     "minimize": "2.0.x",
     "nunjucks": "2.4.x",
     "nunjucks-markdown": "2.0.x",
